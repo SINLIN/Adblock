@@ -87,6 +87,7 @@
 ||nrtgc.xyz
 ||yaosir.com.cn
 ||media.adget.cn
+||tu.baixing.com
 
 !百度搜索
 ||mss0.bdstatic.com/se/static/js/modules/ad_
