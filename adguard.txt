@@ -102,3 +102,6 @@ m.baidu.com##[tpl="vid_hor"],[tpl="yl_ps_xf_operation_card"],[tpl="rel_ugc"],[tp
 !||tb1.bdstatic.com/??tb/mobile/sglobal/lib/
 tieba.baidu.com##.appBottomPromote
 tieba.baidu.com##.father-cut-recommend-normal-box
+
+!简书
+jianshu.com##.call-app-btn
