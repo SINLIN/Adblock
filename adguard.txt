@@ -113,3 +113,7 @@ www.zhihu.com##.HotQuestions,.AdBelowMoreAnswers
 !百度知道
 ||bdimg.com/static/m-question-new/pkg/qb-ad
 zhidao.baidu.com##.yufcuccdaz-ecom-ads,#feed-recommend,#main-content~div
+
+!v2ex.com
+||v2ex.com/static/dist/combo.js
+v2ex.com##.sidebar_units
