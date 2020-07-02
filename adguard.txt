@@ -108,5 +108,5 @@ tieba.baidu.com##.father-cut-recommend-normal-box
 jianshu.com##.call-app-btn
 
 !知乎
-zhihu.com##.HotQuestions
-zhihu.com##.AdBelowMoreAnswers
+www.zhihu.com##.HotQuestions
+www.zhihu.com##.AdBelowMoreAnswers
