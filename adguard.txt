@@ -91,11 +91,13 @@
 ||google-analytics.com
 
 !百度搜索
-||mss0.bdstatic.com/se/static/js/modules/ad_
-||mss0.bdstatic.com/se/static/ala_atom/
-||mss0.bdstatic.com/se/static/amd_modules/
-||mss0.bdstatic.com/se/static/wiseatom/
-||mss0.bdstatic.com/se/static/molecules/toptip/
+!||mss0.bdstatic.com/se/static/js/modules/ad_
+!||mss0.bdstatic.com/se/static/ala_atom/
+!||mss0.bdstatic.com/se/static/amd_modules/
+!||mss0.bdstatic.com/se/static/wiseatom/
+!||mss0.bdstatic.com/se/static/molecules/toptip/
+||m.baidu.com/se/
+||mss0.bdstatic.com/se/
 m.baidu.com###page-copyright,.ec_wise_ad,.c-clk-recommend
 m.baidu.com##[tpl="vid_hor"],[tpl="yl_ps_xf_operation_card"],[tpl="rel_ugc"],[tpl="vid_pocket"],[tpl="recommend_list"]
 
@@ -104,16 +106,42 @@ m.baidu.com##[tpl="vid_hor"],[tpl="yl_ps_xf_operation_card"],[tpl="rel_ugc"],[tp
 tieba.baidu.com##.appBottomPromote
 tieba.baidu.com##.father-cut-recommend-normal-box
 
+!百科
+baike.baidu.com###J-superLayer-main
+
 !简书
 jianshu.com##.call-app-btn
 
 !知乎
-www.zhihu.com##.HotQuestions,.AdBelowMoreAnswers
+||sugar.zhihu.com
+||zhihu-web-analytics.zhihu.com
+||www.zhihu.com/api/v4/hot_recommendation
+||www.zhihu.com/api/v4/search/top_search/
+||www.zhihu.com/commercial_api/banners_v3/
+||www.zhihu.com/api/v3/feed/
+||static.zhihu.com/heifetz/mobile.*.map
+!www.zhihu.com##.HotQuestions,.AdBelowMoreAnswers
 
 !百度知道
-||bdimg.com/static/m-question-new/pkg/qb-ad
-zhidao.baidu.com##.yufcuccdaz-ecom-ads,#feed-recommend,#main-content~div
+||zhidao.baidu.com/mobile/ajax/qbresource
+||fex.bdstatic.com/hunter/alog/dp.mobile.min.js
+||zhidao.baidu.com/mobile/ajax/
+||iknowwap.bdimg.com/static/m-question-new/pkg/qb-ad
+||iknowwap.bdimg.com/static/m-question-new/widget/topic-entry-bar/
+||iknowwap.bdimg.com/static/m-question-new/widget/topic-entry-pop/
+||iknowwap.bdimg.com/static/m-question-new/widget/feed-recommend/
+||iknowwap.bdimg.com/static/m-question-new/widget/ad-union-new/
+||iknowwap.bdimg.com/static/m-question-new/widget/eva-flash/
+||iknowwap.bdimg.com/static/m-question-new/widget/trans-yun/
+||iknowwap.bdimg.com/static/m-question-new/widget/js/gradeRankDialog/
+!zhidao.baidu.com##.yufcuccdaz-ecom-ads,#feed-recommend,#main-content~div
 
 !v2ex.com
 ||v2ex.com/static/dist/combo.js
+||cdn.v2ex.com/assets/sidebar/
 v2ex.com##.sidebar_units
+
+!csdn
+||beacon.tingyun.com
+||tdum.alibaba.com
+||event.csdn.net/logstores
