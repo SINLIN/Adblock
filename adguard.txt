@@ -109,3 +109,7 @@ jianshu.com##.call-app-btn
 
 !知乎
 www.zhihu.com##.HotQuestions,.AdBelowMoreAnswers
+
+!百度知道
+zhidao.baidu.com##.yufcuccdaz-ecom-ads,#feed-recommend,#main-content~div
+
