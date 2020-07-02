@@ -111,6 +111,6 @@ jianshu.com##.call-app-btn
 www.zhihu.com##.HotQuestions,.AdBelowMoreAnswers
 
 !百度知道
-||bdimg.com/static/m-question-new/pkg/
+||bdimg.com/static/m-question-new/pkg/qb-ad
 zhidao.baidu.com##.yufcuccdaz-ecom-ads,#feed-recommend,#main-content~div
 
