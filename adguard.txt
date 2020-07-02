@@ -106,3 +106,7 @@ tieba.baidu.com##.father-cut-recommend-normal-box
 
 !简书
 jianshu.com##.call-app-btn
+
+!知乎
+zhihu.com##.HotQuestions
+zhihu.com##.AdBelowMoreAnswers
