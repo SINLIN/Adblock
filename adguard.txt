@@ -96,7 +96,7 @@
 ||mss0.bdstatic.com/se/static/amd_modules/
 ||mss0.bdstatic.com/se/static/wiseatom/
 ||mss0.bdstatic.com/se/static/molecules/toptip/
-m.baidu.com###page-copyright,.ec_wise_ad
+m.baidu.com###page-copyright,.ec_wise_ad,.c-clk-recommend
 m.baidu.com##[tpl="vid_hor"],[tpl="yl_ps_xf_operation_card"],[tpl="rel_ugc"],[tpl="vid_pocket"],[tpl="recommend_list"]
 
 !贴吧
