@@ -98,19 +98,19 @@
 !||mss0.bdstatic.com/se/static/molecules/toptip/
 ||m.baidu.com/se/
 ||mss0.bdstatic.com/se/
-m.baidu.com###page-copyright,.ec_wise_ad,.c-clk-recommend
-m.baidu.com##[tpl="vid_hor"],[tpl="yl_ps_xf_operation_card"],[tpl="rel_ugc"],[tpl="vid_pocket"],[tpl="recommend_list"]
+||m.baidu.com###page-copyright,.ec_wise_ad,.c-clk-recommend
+||m.baidu.com##[tpl="vid_hor"],[tpl="yl_ps_xf_operation_card"],[tpl="rel_ugc"],[tpl="vid_pocket"],[tpl="recommend_list"]
 
 !贴吧
 !||tb1.bdstatic.com/??tb/mobile/sglobal/lib/
-tieba.baidu.com##.appBottomPromote
-tieba.baidu.com##.father-cut-recommend-normal-box
+||tieba.baidu.com##.appBottomPromote
+||tieba.baidu.com##.father-cut-recommend-normal-box
 
 !百科
-baike.baidu.com###J-superLayer-main
+||baike.baidu.com###J-superLayer-main
 
 !简书
-jianshu.com##.call-app-btn
+||jianshu.com##.call-app-btn
 
 !知乎
 ||sugar.zhihu.com
@@ -139,7 +139,7 @@ jianshu.com##.call-app-btn
 !v2ex.com
 ||v2ex.com/static/dist/combo.js
 ||cdn.v2ex.com/assets/sidebar/
-v2ex.com##.sidebar_units
+||v2ex.com##.sidebar_units
 
 !csdn
 ||beacon.tingyun.com
