@@ -57,8 +57,6 @@ $script,domain=www.ifeng.com|diyifanwen.com
 ||admin6.com
 ||inte.sogou.com
 ||quw18.com
-*/ad/*
-*/ads/*
   
 
 !*****************************
@@ -82,7 +80,7 @@ $script,domain=www.ifeng.com|diyifanwen.com
 !ps:0123456789-ABCDEFG-HIJKLMN-OPQRST-UVWXYZ
 
 !IP
-121.40.25.88
+!121.40.25.88
 
 !0-9
 ||51.la
@@ -124,7 +122,6 @@ $script,domain=www.ifeng.com|diyifanwen.com
 
 !HIJKLMN
 ||haohaowan8.com
-||h*.kukuw.com
 ||hr41.cn
 ||haiyunx.com
 ||he2d.com
@@ -191,11 +188,6 @@ $script,domain=www.ifeng.com|diyifanwen.com
 ||analytics.163.com^
 ||g.163.com/*r?site=netease&affiliate=homepage&cat=homepage&type=*
 
-!哔哩哔哩
-||www.bilibili.com/html/ads-list.js
-||s*.hdslb.com/bfs/cm/st/*/bundle.js
-||bilibili.com/x/web-show/res/locs?*&pf=0&ids=4
-||bilibili.com/x/web-show/res/loc?pf=0&id=160
 
 !游民星空
 ||gamersky.com/banner
@@ -207,7 +199,7 @@ $script,domain=www.ifeng.com|diyifanwen.com
 !gamersky.com##div[id^="adscontainer_"],div[class*="_ad"]
 
 !acg15.com
-acg15.com##div[class*="ad-"]
+||acg15.com##div[class*="ad-"]
 
 !无名小站
 !||dilidili.*/ad/*.jpg|
@@ -228,7 +220,7 @@ acg15.com##div[class*="ad-"]
 ||zol.com.cn/*_ad*
 
 !异次元
-iplaysoft.com##ins[class^="ads"]
+||iplaysoft.com##ins[class^="ads"]
 
 !新浪博客
 ||sina.com.cn/*/sinaads.js|
@@ -313,7 +305,7 @@ iplaysoft.com##ins[class^="ads"]
 
 
 !766动漫
-776dm.com##.topAA
+||776dm.com##.topAA
 
 !nag论坛
 ||nga.cn/common_res/js_adscommon.
@@ -327,7 +319,7 @@ $script,domain=www.douban.com||book.douban.com
 
 !齐家, 福窝网,居天下
 $script,domain=jia.com||~www.jia.com||fuwo.com||~www.fuwo.com||fang.com
-fang.com##.baojia
+||fang.com##.baojia
 
 !中关村
 !$script,domain=zol.com.cn
@@ -344,22 +336,22 @@ fang.com##.baojia
 52pojie.cn##td.plc.plm
 
 !城通网盘
-doubleclick.ctfile.com
-mydisplay.ctfile.com
-static.ctfile.com/js/bd_stat.js
-zdfans.ctfile.com/ad_display.php
+||doubleclick.ctfile.com
+||mydisplay.ctfile.com
+||static.ctfile.com/js/bd_stat.js
+||zdfans.ctfile.com/ad_display.php
 
 !userstyles.org
 
 !ip.cn
-ip.cn###result~div
+||ip.cn###result~div
 
 !enbt.org
 ||enbte.com/Public/Ad/* 
 
 
 !w3cplus.com
-w3cplus.com##div[id*="content-ad"]
+||w3cplus.com##div[id*="content-ad"]
 
 !bt121.com
 ||bt121.com/ats
@@ -371,7 +363,7 @@ w3cplus.com##div[id*="content-ad"]
 
 !pc6.com
 ||www.pc6.com/public/vendor/push.js^
-www.pc6.com##div[id^='topbanner'],.ad,.ad-download,.m-open-box
+||www.pc6.com##div[id^='topbanner'],.ad,.ad-download,.m-open-box
 
 !111cn
 ||assets.111cn.net/a
@@ -381,11 +373,11 @@ www.pc6.com##div[id^='topbanner'],.ad,.ad-download,.m-open-box
 ||51zxw.net/news_vvvs_photos.swf
 
 !腾讯视频
-vlive.qqvideo.tc.qq.com
-variety.tc.qq.com
-dp3.qq.com
-bullet.video.qq.com
-vm.gtimg.cn/tencentvideo/script/module/floatpanel.js
+!vlive.qqvideo.tc.qq.com
+!variety.tc.qq.com
+!dp3.qq.com
+!bullet.video.qq.com
+!vm.gtimg.cn/tencentvideo/script/module/floatpanel.js
 ||l.qq.com
 ||access.video.qq.com/growth
 
@@ -408,14 +400,14 @@ vm.gtimg.cn/tencentvideo/script/module/floatpanel.js
 ||www.douxie.com/style/js/ad.js
 
 !uve
-vuejs.org###ad,.sidebar-sponsors
+||vuejs.org###ad,.sidebar-sponsors
 
 !168it
 ||it168.com/a/
-it168.com##.lg_ad
+||it168.com##.lg_ad
 
 !speedtest.net
-http://www.speedtest.net/javascript/ads.js^
+||www.speedtest.net/javascript/ads.js^
 
 !爱站网
 ||aizhan.com/home.js
@@ -424,7 +416,7 @@ http://www.speedtest.net/javascript/ads.js^
 ||kisssub.org/addon/assets/common/ads.js
 
 !泡泡云
-https:*/assets/js/fuck.js^
+||*/assets/js/fuck.js^
 
 !天涯社区
 ||static.tianyaui.com/qy/adsame/ads.js
