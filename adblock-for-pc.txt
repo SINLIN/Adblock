@@ -427,3 +427,8 @@ $script,domain=jia.com||~www.jia.com||fuwo.com||~www.fuwo.com||fang.com
 ||cdn.segmentfault.com/sponsor^$rewrite=abp-resource:blank-html,domain=segmentfault.com
 ||googletagmanager.com^
 
+!csdn
+||g.csdnimg.cn/side-toolbar^$script,rewrite=abp-resource:blank-js,domain=blog.csdn.net
+||gsp0.baidu.com^$script,rewrite=abp-resource:blank-js,domain=blog.csdn.net
+||g.csdnimg.cn/check-adb^$script,rewrite=abp-resource:blank-js,domain=blog.csdn.net
+
