@@ -330,10 +330,10 @@ $script,domain=jia.com||~www.jia.com||fuwo.com||~www.fuwo.com||fang.com
 
 
 !52破解网
-52pojie.cn###toptb
-52pojie.cn##.rate
-52pojie.cn##h3.psth.xs1
-52pojie.cn##td.plc.plm
+||52pojie.cn^###toptb
+||52pojie.cn^##.rate
+||52pojie.cn^##h3.psth.xs1
+||52pojie.cn^##td.plc.plm
 
 !城通网盘
 ||doubleclick.ctfile.com
@@ -416,9 +416,14 @@ $script,domain=jia.com||~www.jia.com||fuwo.com||~www.fuwo.com||fang.com
 ||kisssub.org/addon/assets/common/ads.js
 
 !泡泡云
-||*/assets/js/fuck.js^
+||*^assets/js/fuck.js^
 
 !天涯社区
 ||static.tianyaui.com/qy/adsame/ads.js
 
+!segmentfault.com
+||segmentfault.com^$csp=default-src*script-src'self',domain=segmentfault.com
+||sponsor.segmentfault.com/*.php^$rewrite=abp-resource:blank-js,domain=segmentfault.com
+||cdn.segmentfault.com/sponsor^$rewrite=abp-resource:blank-html,domain=segmentfault.com
+||googletagmanager.com^
 
