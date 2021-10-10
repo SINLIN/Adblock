@@ -57,6 +57,7 @@ $script,domain=www.ifeng.com|diyifanwen.com
 ||admin6.com
 ||inte.sogou.com
 ||quw18.com
+||a2put.chinaz.com
 */ad/*
 */ads/*
   
