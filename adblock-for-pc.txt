@@ -9,7 +9,7 @@
 
 @@$document=jd.com|taobao.com|tmall.com|userstyles.org|asus.com|coding.net|github.com|bilibili.com|kaola.com
 @@$document=hdslb.com|iqiyi.com|www.baidu.com|baike.baidu.com|zhidao.baidu.com|10086.cn|oneso.win|pub.alimama.com
-@@$document=aliyun.com
+@@$document=aliyun.com|right.com.cn
 
 !***************************** 全局 *******************************/
 
