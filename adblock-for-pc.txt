@@ -53,6 +53,11 @@ $script,domain=www.ifeng.com|diyifanwen.com
 ||googletagservices.com
 ||google-analytics.com
 ||goodgz.cn
+||googleadservices.com
+||tpc.googlesyndication.com
+||csi.gstatic.com
+||moatads.com
+||adsafeprotected.com
 
 ||admin6.com
 ||inte.sogou.com
