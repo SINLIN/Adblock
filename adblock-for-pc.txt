@@ -3,7 +3,7 @@
 ! Version: 0.001
 ! Last modified: 2017.05.02
 ! Expires: 3 days
-! Homepage: https://coding.net/u/SSHIN/p/Adblock-Plus-Rules/git/blob/master/adblock-for-pc.txt
+! Homepage: https://sinlin.github.io/Adblock/adblock-for-pc.txt
 
 !***************************** 白名单 *******************************/
 
