@@ -27,7 +27,7 @@ $third-party,domain=ngacn.cc
 $script,domain=www.ifeng.com|diyifanwen.com
 
 !屏蔽内置srcipt
-||www.360doc.com$csp=default-src * script-src 'self',third-party,domain=www.360doc.com
+||www.360doc.com$csp=default-src * script-src 'self',third-party,domain=360doc.com
 
 !*****************************
 !屏蔽广告联盟
