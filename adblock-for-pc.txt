@@ -80,8 +80,7 @@ $script,domain=www.ifeng.com|diyifanwen.com
 ||yoyi.com.cn^$third-party
 ||xtgreat.com^$third-party
 ||youle55.com^$third-party
-||mmstat.com^$third-party
-||miaozhen.com^$third-party
+!||mmstat.com^$third-party
 ||x.jd.com^$third-party
 
 
